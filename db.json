@@ -1,0 +1,32 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Getting Started with React",
+      "author": "Admin",
+      "content": "React is a JavaScript library for building user interfaces. It allows developers to create reusable components and build modern web applications efficiently.",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800",
+      "video": "",
+      "createdAt": "2026-10-01T10:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Why Learn JavaScript?",
+      "author": "Admin",
+      "content": "JavaScript is one of the most popular programming languages in the world. It is used for frontend development, backend development, mobile applications and many other technologies.",
+      "image": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=800",
+      "video": "",
+      "createdAt": "2026-10-02T10:00:00.000Z"
+    },
+    {
+      "title": "Demo",
+      "author": "Shubhadip Datta",
+      "content": "Purpose of this blog is just checking the functionality",
+      "image": "https://ae-pic-a1.aliexpress-media.com/kf/S034e9e8b7c464d5e86e7c381a3d3b9a4n.jpg",
+      "video": "https://www.youtube.com/watch?v=egrIe2HKuu0",
+      "createdAt": "2026-10-07T04:40:58.753Z",
+      "id": "hqmvaBhRMnA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
